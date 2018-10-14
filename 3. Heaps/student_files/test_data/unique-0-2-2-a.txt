@@ -1,0 +1,8 @@
+list1=0
+
+list2=2
+FSD860 JIS400
+
+unique2=2
+FSD860 JIS400
+

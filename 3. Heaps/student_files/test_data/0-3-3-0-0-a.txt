@@ -1,0 +1,9 @@
+0
+
+3,3,0,0
+enqueue SDQ593,-398,-9422,75
+enqueue NQK252,-3913,7441,1
+enqueue YKY312,-5427,-7374,72
+dequeue SDQ593
+dequeue YKY312
+dequeue NQK252

@@ -1,0 +1,9 @@
+list1=2
+KGC157 YWD540
+
+list2=2
+KGC157 TFC006
+
+unique2=1
+TFC006
+

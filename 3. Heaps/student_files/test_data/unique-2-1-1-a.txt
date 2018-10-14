@@ -1,0 +1,9 @@
+list1=2
+REL754 WAP659
+
+list2=1
+WIQ263
+
+unique2=1
+WIQ263
+

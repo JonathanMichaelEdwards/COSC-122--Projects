@@ -1,0 +1,23 @@
+0
+
+10,5,3,2
+enqueue XJJ705,-7666,-1187,90
+update XJJ705,-9019,37,53
+update XJJ705,-5516,2710,71
+update XJJ705,4823,1376,85
+enqueue WYQ469,7940,1339,72
+enqueue DTT342,1048,-5774,11
+dequeue XJJ705
+enqueue NXB962,-1690,8999,28
+enqueue VRX931,6913,-5455,47
+enqueue QVW088,-9307,-2419,83
+remove WYQ469
+remove NXB962
+dequeue QVW088
+dequeue VRX931
+dequeue DTT342
+enqueue KJE482,-6413,1518,99
+enqueue EGD635,-2563,-6419,25
+dequeue KJE482
+enqueue GDA737,-7936,2471,80
+enqueue FFR645,-7196,-5753,89

@@ -1,0 +1,8 @@
+0
+
+5,0,0,0
+enqueue STJ358,-5862,3545,97
+enqueue DOO030,-2700,-5302,18
+enqueue UAD178,-2589,-8645,46
+enqueue XMO888,-9392,2082,9
+enqueue LHN782,-6099,-312,73

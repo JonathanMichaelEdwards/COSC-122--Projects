@@ -1,0 +1,23 @@
+0
+
+10,5,0,5
+enqueue ICL535,7911,5213,44
+enqueue IUD154,6579,-1072,78
+enqueue YOQ780,-4009,5275,89
+enqueue GRP497,-6546,-2261,75
+enqueue ANM009,-3637,-5599,34
+enqueue JEQ233,-2615,7115,47
+enqueue JPW989,2008,-721,19
+enqueue TXX334,6727,-6494,54
+enqueue GRQ500,9080,-564,16
+enqueue DDP784,250,7953,30
+remove GRP497
+remove JEQ233
+remove DDP784
+remove TXX334
+dequeue YOQ780
+dequeue IUD154
+dequeue JPW989
+dequeue ANM009
+dequeue ICL535
+remove GRQ500

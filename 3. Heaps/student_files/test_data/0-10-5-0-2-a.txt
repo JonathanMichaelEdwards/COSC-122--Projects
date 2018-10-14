@@ -1,0 +1,20 @@
+0
+
+10,5,0,2
+enqueue ZGR248,5738,-9346,70
+dequeue ZGR248
+enqueue ZXM798,3934,-4676,39
+remove ZXM798
+enqueue NPH167,-2034,-7660,48
+enqueue LVC387,1650,-2499,8
+enqueue PMU312,5737,4975,28
+dequeue LVC387
+enqueue XOW636,899,-9535,87
+remove PMU312
+enqueue KBS395,-2707,-8153,65
+dequeue XOW636
+enqueue WPP134,-7585,6197,72
+enqueue ZSH179,658,-5079,64
+dequeue ZSH179
+enqueue SGX861,2673,-2829,75
+dequeue SGX861
