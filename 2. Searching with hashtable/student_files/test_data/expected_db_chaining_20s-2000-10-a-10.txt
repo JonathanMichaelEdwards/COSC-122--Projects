@@ -1,0 +1,11 @@
+Chaining Hash Table:
+0-> [('OH4734', '')]
+1-> []
+2-> [('RD6807', 'Axe murderer')]
+3-> [('AF5536', ''), ('BH6460', 'Canivore'), ('FV3993', 'Smokey'), ('IB6229', ''), ('MM0141', '')]
+4-> [('HI3104', '')]
+5-> [('DV3328', 'Zombie'), ('OI7467', '')]
+6-> [('FV5509', 'Axe murderer'), ('SZ4774', 'Snail speed'), ('WQ4775', '')]
+7-> [('BK9396', 'Texts while driving'), ('EG4921', ''), ('OC1384', 'ZM supporter')]
+8-> [('FK4792', '')]
+9-> [('OS4019', ''), ('PC3516', ''), ('XV9724', '')]

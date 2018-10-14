@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('WM0720', '')
+3-> None
+4-> None
+5-> ('BI7323', 'Petrol head')
+6-> ('EO5903', '')
+7-> None
+8-> None
+9-> None
+10-> ('XG0428', '')
+11-> ('GS9322', '')
+12-> ('KA2801', 'All blacks supporter')
+13-> ('JI6816', 'Crusaders supporter')
+14-> ('HT9954', 'Registration expired')
+15-> ('ZC4093', '')
+16-> None
+17-> None
+18-> ('TQ5014', 'Trip hop fan')
+19-> None

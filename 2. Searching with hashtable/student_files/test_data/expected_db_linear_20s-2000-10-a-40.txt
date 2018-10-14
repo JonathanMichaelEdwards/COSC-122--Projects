@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('OH4734', '')
+1-> None
+2-> None
+3-> ('BH6460', 'Canivore')
+4-> ('IB6229', '')
+5-> ('MM0141', '')
+6-> ('OI7467', '')
+7-> ('EG4921', '')
+8-> ('OC1384', 'ZM supporter')
+9-> None
+10-> None
+11-> None
+12-> None
+13-> None
+14-> None
+15-> ('DV3328', 'Zombie')
+16-> None
+17-> ('BK9396', 'Texts while driving')
+18-> None
+19-> None
+20-> None
+21-> None
+22-> None
+23-> None
+24-> None
+25-> None
+26-> ('SZ4774', 'Snail speed')
+27-> None
+28-> ('FK4792', '')
+29-> ('OS4019', '')
+30-> ('XV9724', '')
+31-> None
+32-> ('RD6807', 'Axe murderer')
+33-> ('AF5536', '')
+34-> ('FV3993', 'Smokey')
+35-> ('HI3104', '')
+36-> ('FV5509', 'Axe murderer')
+37-> ('WQ4775', '')
+38-> None
+39-> ('PC3516', '')

@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('QG9679', 'International licence')
+3-> None
+4-> None
+5-> ('XN9290', '')
+6-> ('PO8046', 'Alternate universe licence')
+7-> None
+8-> None
+9-> ('FD8495', '')
+10-> ('SF4692', '')
+11-> None
+12-> None
+13-> ('MJ1198', '')
+14-> ('LW2026', 'Goat')
+15-> None
+16-> None
+17-> None
+18-> ('NN3691', 'ZM supporter')
+19-> ('ZG6385', '')
+20-> None
+21-> None
+22-> None
+23-> None
+24-> ('BG1971', '')
+25-> None
+26-> ('PG4666', 'Apple fan')
+27-> ('CQ5755', '')
+28-> ('KV0347', '')
+29-> ('FK5600', '')
+30-> ('LR5962', 'Brexiteer')
+31-> ('NF0305', '')
+32-> ('LA9654', '')
+33-> ('FA1606', '')
+34-> ('QB0401', '')
+35-> ('TT6780', '')
+36-> None
+37-> None
+38-> None
+39-> None

@@ -1,0 +1,11 @@
+Chaining Hash Table:
+0-> [('RM9980', ''), ('VA8224', 'Axe murderer'), ('XW2013', '')]
+1-> [('BJ0264', '')]
+2-> [('OH3430', '')]
+3-> [('NR9317', 'Remain supporter')]
+4-> [('VK7423', 'Texts while driving')]
+5-> [('KO8776', '')]
+6-> [('XD1468', '')]
+7-> [('AW7425', 'Freegan'), ('BT5283', ''), ('PE6407', ''), ('VR8998', '')]
+8-> [('BZ5604', 'Horrible colour scheme'), ('EO2708', ''), ('FI4983', 'National radio supporter')]
+9-> [('AR8320', ''), ('RA6715', ''), ('US9775', ''), ('UW2532', '')]

@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('VM0659', '')
+1-> ('IX9967', '')
+2-> ('QV5735', '')
+3-> ('XB9408', 'Freegan')
+4-> ('MC9350', '')
+5-> None
+6-> ('BX2957', '')
+7-> None
+8-> None
+9-> ('AF5833', '')
+10-> ('IM3095', '')
+11-> None
+12-> None
+13-> None
+14-> ('YG9785', 'Country and Western music fan')
+15-> None
+16-> ('AE3372', '')
+17-> None
+18-> None
+19-> None
+20-> ('EO2900', '')
+21-> None
+22-> None
+23-> ('AX2821', 'Alternate universe licence')
+24-> ('EK6255', '')
+25-> ('YV5123', 'Illegally parker')
+26-> ('XA9072', 'Hip hop fan')
+27-> ('XA6720', 'Car enthusiast')
+28-> ('ZA8383', '')
+29-> ('GY3104', 'Royal family')
+30-> None
+31-> ('CU1203', '')
+32-> None
+33-> None
+34-> None
+35-> None
+36-> None
+37-> None
+38-> ('BY4774', 'Bridges Supporter')
+39-> None

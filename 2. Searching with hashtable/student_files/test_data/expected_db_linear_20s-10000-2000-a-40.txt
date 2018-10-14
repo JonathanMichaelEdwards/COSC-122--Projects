@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('MP0174', '')
+1-> ('OM8215', '')
+2-> ('IR6763', '')
+3-> ('LL5562', '')
+4-> ('FA1502', '')
+5-> ('UW4160', '')
+6-> None
+7-> None
+8-> None
+9-> None
+10-> None
+11-> None
+12-> None
+13-> None
+14-> None
+15-> ('QT5543', 'Crimes against fashion')
+16-> None
+17-> ('TC2265', '')
+18-> ('WM6498', '')
+19-> None
+20-> None
+21-> None
+22-> ('IC5543', 'Trip hop fan')
+23-> ('PP2523', '')
+24-> None
+25-> ('VJ1861', 'Werewolf')
+26-> None
+27-> ('JO4564', 'Crusaders supporter')
+28-> ('HI4529', '')
+29-> ('SN7150', 'Intergalactic licence')
+30-> ('YQ0351', 'Texts while driving')
+31-> None
+32-> None
+33-> None
+34-> ('VY4774', '')
+35-> None
+36-> ('ZY7508', 'Banana burglar')
+37-> ('KA5201', '')
+38-> ('WQ1506', '')
+39-> None

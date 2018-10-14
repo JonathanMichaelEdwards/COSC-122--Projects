@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> None
+3-> None
+4-> ('JE5533', 'Internet troll')
+5-> None
+6-> ('XU9072', '')
+7-> None
+8-> None
+9-> None
+10-> None
+11-> ('IA4264', '')
+12-> None
+13-> ('DG7006', '')
+14-> ('OJ2931', '')
+15-> ('KV7905', '')
+16-> ('TO1855', '')
+17-> ('JY5691', 'Cheats at poker')
+18-> ('TW9097', '')
+19-> ('AH5507', '')
+20-> ('VH2645', 'Crusaders supporter')
+21-> None
+22-> None
+23-> None
+24-> ('US6197', 'Hip hop fan')
+25-> ('LF0680', '')
+26-> None
+27-> ('NB4921', 'Slow at drive-through')
+28-> None
+29-> None
+30-> None
+31-> ('NP2491', 'Giant insect')
+32-> None
+33-> None
+34-> ('JO7030', 'Giant insect')
+35-> ('TQ9318', 'UC Staff')
+36-> ('BG1298', '')
+37-> None
+38-> ('MG0016', '')
+39-> ('XB7171', 'Pavlova poacher')

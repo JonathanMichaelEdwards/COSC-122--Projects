@@ -1,0 +1,116 @@
+database=100
+AG4443:Snail speed
+AW1164:Underage driving
+AX7452:
+AX9848:Interstellar licence
+BA2432:Body snatcher
+BA7804:
+BF2172:Pavlova poacher
+BN5362:
+BO4075:
+BS1049:
+BX4705:
+CL4854:
+CO7386:
+CX9758:
+CY2164:
+DB6580:
+DI4635:Android fan
+DI7069:Country and Western music fan
+DM5756:
+DO2816:
+DP2391:Politician
+EB0285:
+EX0923:
+FB9132:Ghost
+FC0154:Alternate universe licence
+FC3825:
+FE8163:
+FQ7543:
+GY4755:
+HG7243:
+HH3586:
+HL3207:
+HP3357:
+HR5269:
+IR5384:
+JE6936:
+JK3588:
+JN8276:
+JS5748:
+JV0167:
+KN7775:Suspended driving licence
+KS2858:
+LA2904:
+LB7841:
+LL2212:Cheats at monopoly
+LS0844:
+MK4355:
+MR9856:Alligator person
+MS9884:
+MT8315:Drifter
+MU0546:Crimes against fashion
+NF3289:Country and Western music fan
+NP5020:Winston supporter
+NS1418:
+NW2762:
+NZ8622:
+OH6753:
+OJ2697:Texts while driving
+OJ2958:UC Staff
+PB6878:
+PD2619:
+PE4607:
+PL3422:
+QN1981:UC Student
+QX6544:Windows phone fan
+RL2381:All blacks supporter
+RM6906:Suspended driving licence
+SB3318:
+SD0495:Car enthusiast
+SR8802:
+SV5599:
+SY3065:
+TA8767:
+TB3078:Werewolf
+TG9679:Alternate universe licence
+TN3255:
+TT1594:
+TX5203:
+UB0708:
+UB3621:
+UT4480:
+VH1985:
+VJ4961:
+VV7829:
+WE0068:
+WJ6187:Android fan
+WL2083:
+WQ8647:
+WU5596:
+XG2960:Terrorist
+XR9366:
+XU3793:
+YJ4785:UC Staff
+YM3668:
+YX3223:
+ZB7781:
+ZJ4849:
+ZU5026:Chews with mouth open
+ZW1348:
+ZX8947:
+
+sightings=10
+PE4607;2018-01-20T00:17:42
+NS1418;2018-01-20T00:17:51
+SR8802;2018-01-20T00:18:18
+UT4480;2018-01-20T00:19:14
+LS0844;2018-01-20T00:20:02
+UW8628;2018-01-20T00:20:34
+BA7804;2018-01-20T00:20:48
+PD2619;2018-01-20T00:21:02
+JE6936;2018-01-20T00:21:36
+FC3825;2018-01-20T00:21:43
+
+seen+flagged=0,0
+

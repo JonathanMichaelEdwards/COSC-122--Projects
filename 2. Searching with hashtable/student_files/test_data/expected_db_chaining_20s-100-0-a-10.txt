@@ -1,0 +1,11 @@
+Chaining Hash Table:
+0-> [('EO3222', ''), ('FS0035', ''), ('GO3770', ''), ('HV7073', '')]
+1-> [('CN4425', ''), ('OT5736', 'Blackberry fan')]
+2-> []
+3-> [('GK7827', 'Remain supporter'), ('JE7381', ''), ('OF1787', 'Ghost')]
+4-> [('PL3493', 'Learners licence')]
+5-> [('UI7683', ''), ('YR9080', '')]
+6-> [('ES7910', '')]
+7-> [('UJ8818', 'Petrol head')]
+8-> [('CN1250', ''), ('SI2269', 'National radio supporter'), ('TK6516', 'Learners licence')]
+9-> [('LJ1133', ''), ('QH1989', ''), ('ZH5904', '')]

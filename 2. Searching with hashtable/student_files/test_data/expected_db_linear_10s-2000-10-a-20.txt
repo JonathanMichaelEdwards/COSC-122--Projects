@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> None
+1-> ('HP9357', '')
+2-> ('ZL3384', '')
+3-> None
+4-> ('HP1152', 'Drunk driver')
+5-> None
+6-> None
+7-> ('UZ8883', 'Vampire')
+8-> None
+9-> ('HE8218', '')
+10-> ('IQ8741', '')
+11-> ('KU1382', 'Apple fan')
+12-> ('CC3659', 'Alternate universe licence')
+13-> None
+14-> None
+15-> ('UR7811', '')
+16-> ('MQ4074', '')
+17-> None
+18-> None
+19-> None

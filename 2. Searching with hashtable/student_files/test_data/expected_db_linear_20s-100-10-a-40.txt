@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('SK9510', '')
+1-> None
+2-> ('MR7225', '')
+3-> None
+4-> None
+5-> ('JN6653', '')
+6-> ('AU9523', 'Pavlova poacher')
+7-> ('UH8331', '')
+8-> ('BI3319', 'Canivore')
+9-> None
+10-> None
+11-> ('JQ5073', '')
+12-> ('QQ6495', '')
+13-> ('RP9126', '')
+14-> ('AX7292', 'Crusaders supporter')
+15-> ('KZ7578', 'Elvis Impersonator')
+16-> ('DJ9077', 'SA Supporter')
+17-> None
+18-> None
+19-> None
+20-> None
+21-> ('VL4262', '')
+22-> ('WF7230', '')
+23-> None
+24-> None
+25-> None
+26-> None
+27-> None
+28-> ('GL8613', '')
+29-> None
+30-> None
+31-> None
+32-> None
+33-> None
+34-> ('BN1770', '')
+35-> ('IS7511', '')
+36-> ('LX3981', '')
+37-> ('HC4582', 'SA Supporter')
+38-> ('YC3976', '')
+39-> None

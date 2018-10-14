@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('UT0139', 'Suspended driving licence')
+1-> ('TI6227', '')
+2-> ('AB4039', 'Blackberry fan')
+3-> None
+4-> None
+5-> ('WK1867', 'Texts while driving')
+6-> None
+7-> ('RL3193', '')
+8-> ('CV1793', '')
+9-> ('GR7684', '')
+10-> None
+11-> None
+12-> None
+13-> None
+14-> None
+15-> None
+16-> None
+17-> ('TS7042', '')
+18-> ('DN3473', '')
+19-> ('DF6183', 'Jacinda supporter')
+20-> ('UY7039', '')
+21-> ('VN5188', '')
+22-> ('VQ3424', 'Snail speed')
+23-> None
+24-> None
+25-> None
+26-> None
+27-> None
+28-> None
+29-> ('MU5980', '')
+30-> ('EM7033', '')
+31-> ('HQ6626', '')
+32-> ('TW8051', '')
+33-> ('ZM5063', 'Chews with mouth open')
+34-> None
+35-> None
+36-> ('ZV8977', '')
+37-> None
+38-> None
+39-> ('HG8913', '')

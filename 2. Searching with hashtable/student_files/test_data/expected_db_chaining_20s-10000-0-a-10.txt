@@ -1,0 +1,11 @@
+Chaining Hash Table:
+0-> []
+1-> [('CX8814', 'Body snatcher'), ('ED1583', ''), ('HG1541', 'Kiwi fruit fief'), ('VJ6994', ''), ('VO9510', 'Banana burglar')]
+2-> [('MD4554', 'Brexiteer'), ('YV6435', '')]
+3-> [('BU9756', 'SA Supporter'), ('DE0755', ''), ('FZ7368', 'Jail-breaker'), ('JU3365', '')]
+4-> [('NZ1123', 'Trip hop fan')]
+5-> [('ME6156', 'Drunk driver'), ('MV3659', 'Drifter')]
+6-> [('DH4973', 'Royal family'), ('HV4713', ''), ('QX4358', ''), ('RR4070', '')]
+7-> [('AH2146', ''), ('LU7594', '')]
+8-> []
+9-> []

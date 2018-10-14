@@ -1,0 +1,201 @@
+Linear Hash Table:
+0-> ('YH4512', '')
+1-> None
+2-> None
+3-> None
+4-> ('KF2460', '')
+5-> ('SB0865', '')
+6-> ('YT8868', 'Kiwi fruit fief')
+7-> ('BY5378', 'Illegally parker')
+8-> None
+9-> None
+10-> None
+11-> None
+12-> ('ZY4426', '')
+13-> None
+14-> ('CY8504', 'Country music fan')
+15-> ('DJ7900', '')
+16-> ('KL3059', 'Terrorist')
+17-> ('OU0220', '')
+18-> ('EN2961', '')
+19-> ('UC3156', '')
+20-> ('WM2818', '')
+21-> ('WV2166', 'Allergic to hard work')
+22-> ('OM6681', '')
+23-> ('NR4820', 'Pavlova poacher')
+24-> ('RY5425', '')
+25-> ('YC8565', '')
+26-> ('EP0190', '')
+27-> ('LQ3060', '')
+28-> None
+29-> ('AX8995', '')
+30-> None
+31-> None
+32-> None
+33-> None
+34-> ('EG3471', 'Used car sales person')
+35-> ('KX7614', '')
+36-> ('NS9251', 'Registration expired')
+37-> ('LR3788', 'Noisey eater')
+38-> ('BO3131', 'Apple fan')
+39-> ('ON7340', '')
+40-> ('CZ6060', '')
+41-> ('LS9375', 'Snail speed')
+42-> ('MQ3115', '')
+43-> ('QW2282', '')
+44-> ('NB4003', '')
+45-> None
+46-> ('GV2361', 'Android fan')
+47-> ('SW6720', '')
+48-> None
+49-> ('ZT7559', 'Ghost')
+50-> None
+51-> None
+52-> None
+53-> ('WN0375', 'Blackberry fan')
+54-> None
+55-> None
+56-> ('KI5413', '')
+57-> ('HU5507', '')
+58-> ('LW0459', '')
+59-> ('ME9203', '')
+60-> ('VN0612', '')
+61-> None
+62-> None
+63-> None
+64-> None
+65-> None
+66-> ('AJ5731', 'Vegetarian')
+67-> None
+68-> None
+69-> ('CR1255', '')
+70-> ('IX7006', '')
+71-> ('OO1553', '')
+72-> ('TB2682', 'Drunk driver')
+73-> ('PJ3546', '')
+74-> ('OC2441', '')
+75-> ('UP9235', '')
+76-> ('VX8322', '')
+77-> ('ZO0061', 'Cheats at golf')
+78-> None
+79-> None
+80-> None
+81-> ('PP0545', '')
+82-> None
+83-> ('HI7653', 'Canivore')
+84-> None
+85-> ('BI7671', '')
+86-> ('ZM9355', '')
+87-> None
+88-> ('KU9721', '')
+89-> None
+90-> None
+91-> ('AP4809', '')
+92-> ('DB7435', 'Vampire')
+93-> ('RF1676', '')
+94-> ('IE0344', '')
+95-> ('JM7202', '')
+96-> ('QM2414', '')
+97-> None
+98-> None
+99-> None
+100-> ('LM1834', '')
+101-> ('HW9255', '')
+102-> None
+103-> None
+104-> ('CJ3175', 'Muppet')
+105-> ('NE0942', '')
+106-> None
+107-> None
+108-> None
+109-> None
+110-> None
+111-> None
+112-> None
+113-> None
+114-> ('XQ5029', 'Country music fan')
+115-> None
+116-> ('NB4982', 'ZM supporter')
+117-> ('DX6301', 'ALL CAPS TWEETER')
+118-> ('VQ1004', '')
+119-> None
+120-> None
+121-> ('VV9029', '')
+122-> None
+123-> ('LH7955', '')
+124-> ('KD8352', 'Pavlova poacher')
+125-> None
+126-> None
+127-> None
+128-> None
+129-> None
+130-> None
+131-> ('LB0273', '')
+132-> None
+133-> None
+134-> None
+135-> None
+136-> ('VK5254', '')
+137-> None
+138-> None
+139-> ('RU2195', '')
+140-> None
+141-> None
+142-> None
+143-> None
+144-> ('XL4270', '')
+145-> None
+146-> ('ZF6160', '')
+147-> None
+148-> None
+149-> ('ZW1396', 'Internet troll')
+150-> None
+151-> ('QF2863', 'Pavlova poacher')
+152-> ('RF4635', '')
+153-> ('LM4430', '')
+154-> None
+155-> ('FQ2195', '')
+156-> None
+157-> None
+158-> None
+159-> ('BZ2394', '')
+160-> None
+161-> None
+162-> ('DV1668', '')
+163-> ('HH0701', '')
+164-> ('LO3791', 'Drum n bass fan')
+165-> ('VT6343', '')
+166-> ('ZF5873', '')
+167-> None
+168-> None
+169-> None
+170-> ('OO0106', '')
+171-> ('OT8946', 'Used car sales person')
+172-> ('ZF0632', 'Alternate universe licence')
+173-> None
+174-> None
+175-> None
+176-> None
+177-> None
+178-> ('IK9235', '')
+179-> None
+180-> None
+181-> None
+182-> None
+183-> None
+184-> ('DC9995', '')
+185-> ('PE9525', '')
+186-> ('TQ3732', '')
+187-> None
+188-> ('SH4051', '')
+189-> None
+190-> None
+191-> None
+192-> None
+193-> ('LV3528', 'Elvis Fan')
+194-> None
+195-> ('FD1685', '')
+196-> None
+197-> None
+198-> ('DD8290', '')
+199-> None

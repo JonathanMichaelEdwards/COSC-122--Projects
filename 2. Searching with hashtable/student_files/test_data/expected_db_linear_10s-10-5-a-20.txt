@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> None
+1-> ('CZ7565', 'Slow at drive-through')
+2-> ('OT4135', '')
+3-> ('WY6750', '')
+4-> None
+5-> ('YG9164', 'Windows phone fan')
+6-> None
+7-> ('GI6787', '')
+8-> ('QA3026', '')
+9-> ('TY6062', 'Canivore')
+10-> None
+11-> ('GW1425', '')
+12-> None
+13-> None
+14-> ('GK8861', '')
+15-> None
+16-> None
+17-> None
+18-> ('AB9906', '')
+19-> None

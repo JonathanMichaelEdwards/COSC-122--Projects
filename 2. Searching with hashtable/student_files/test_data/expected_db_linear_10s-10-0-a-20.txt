@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('HP0865', 'Intergalactic licence')
+1-> ('MB7686', 'Bogun')
+2-> ('YD0685', '')
+3-> None
+4-> None
+5-> None
+6-> ('WT0619', 'Drum n bass fan')
+7-> None
+8-> None
+9-> ('DY6623', '')
+10-> ('WW1772', 'Texts while driving')
+11-> ('YN3078', '')
+12-> ('ZK0552', '')
+13-> None
+14-> None
+15-> ('RD8134', '')
+16-> None
+17-> ('DZ1188', '')
+18-> None
+19-> None

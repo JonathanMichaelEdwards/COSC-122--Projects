@@ -1,0 +1,201 @@
+Linear Hash Table:
+0-> None
+1-> ('EM7436', '')
+2-> None
+3-> None
+4-> None
+5-> None
+6-> None
+7-> ('ZP8361', '')
+8-> None
+9-> None
+10-> None
+11-> None
+12-> ('CD2516', 'Politician')
+13-> ('JU0206', 'Putin supporter')
+14-> ('MX1371', 'Freegan')
+15-> ('KE7281', '')
+16-> ('KO5955', 'Suspended driving licence')
+17-> ('IU2800', 'Cheats at golf')
+18-> ('DT8324', '')
+19-> ('FR9535', '')
+20-> ('FT5029', 'Pavlova poacher')
+21-> ('GX6466', '')
+22-> ('JW9761', '')
+23-> ('RI9309', '')
+24-> ('RD3422', '')
+25-> ('TV8446', '')
+26-> ('VO5427', 'Registration expired')
+27-> ('WU7538', '')
+28-> ('YD6296', '')
+29-> ('CG0903', '')
+30-> ('LZ1364', '')
+31-> ('TG9127', '')
+32-> ('XO7810', '')
+33-> None
+34-> ('XR1567', '')
+35-> ('ZM9694', '')
+36-> ('JJ9769', 'Bogun')
+37-> ('PK3976', '')
+38-> ('RG1198', 'Alligator person')
+39-> ('FW0317', 'Alternate universe licence')
+40-> ('OJ4916', 'RDU supporter')
+41-> ('YS9513', '')
+42-> None
+43-> ('LV3799', '')
+44-> ('DQ9272', '')
+45-> None
+46-> None
+47-> ('RH0130', 'Winston supporter')
+48-> None
+49-> None
+50-> ('RM2071', '')
+51-> None
+52-> ('DF8625', 'Loud')
+53-> None
+54-> None
+55-> None
+56-> ('AZ1535', 'Wanted by Interpol')
+57-> ('MZ3817', '')
+58-> None
+59-> None
+60-> ('JU0343', '')
+61-> ('MR7471', '')
+62-> None
+63-> ('GW3500', 'Car enthusiast')
+64-> None
+65-> None
+66-> ('DV7709', 'Goat')
+67-> None
+68-> None
+69-> None
+70-> None
+71-> ('DD9760', '')
+72-> None
+73-> None
+74-> ('BM4200', '')
+75-> ('LE8612', '')
+76-> None
+77-> None
+78-> ('HI4615', '')
+79-> None
+80-> None
+81-> None
+82-> ('CN3542', '')
+83-> ('GT7770', 'RDU supporter')
+84-> ('TP5844', '')
+85-> ('VL6623', '')
+86-> None
+87-> None
+88-> None
+89-> None
+90-> ('QT5179', '')
+91-> None
+92-> ('AH0013', 'Loud')
+93-> None
+94-> None
+95-> None
+96-> None
+97-> None
+98-> ('IQ1040', '')
+99-> None
+100-> ('SC0104', 'Axe murderer')
+101-> ('JL0099', '')
+102-> ('RP6992', '')
+103-> None
+104-> ('UR4680', '')
+105-> None
+106-> None
+107-> None
+108-> None
+109-> None
+110-> ('WW8757', '')
+111-> None
+112-> None
+113-> ('YZ7466', 'Cloned plate')
+114-> ('TL5446', '')
+115-> ('UA2662', '')
+116-> ('XE3641', '')
+117-> None
+118-> None
+119-> None
+120-> None
+121-> None
+122-> None
+123-> ('XE5686', '')
+124-> None
+125-> None
+126-> ('IW8399', '')
+127-> ('OA3384', 'Axe murderer')
+128-> ('NO7551', 'Ghost')
+129-> ('WK6531', '')
+130-> ('FH3240', '')
+131-> None
+132-> ('IU5864', '')
+133-> ('SZ9286', '')
+134-> None
+135-> None
+136-> None
+137-> ('YH7932', '')
+138-> None
+139-> None
+140-> ('RJ9008', '')
+141-> ('CY5612', '')
+142-> ('JF4981', '')
+143-> ('BN9324', '')
+144-> ('EC0458', '')
+145-> ('DR4006', '')
+146-> ('FF5171', '')
+147-> ('EK1760', '')
+148-> ('IZ4762', '')
+149-> ('AD6838', 'Registration expired')
+150-> ('KA6235', '')
+151-> ('RG7371', 'Terrorist')
+152-> ('VL7929', 'Wanted by Interpol')
+153-> ('VY8686', '')
+154-> ('WL9053', '')
+155-> ('XZ8154', 'SA Supporter')
+156-> ('XI3793', '')
+157-> None
+158-> ('HX7220', 'Terrorist')
+159-> None
+160-> None
+161-> None
+162-> None
+163-> ('KX2993', '')
+164-> ('UF8788', '')
+165-> None
+166-> None
+167-> None
+168-> None
+169-> None
+170-> ('LJ1303', '')
+171-> None
+172-> None
+173-> None
+174-> None
+175-> None
+176-> None
+177-> None
+178-> None
+179-> None
+180-> ('XA7995', '')
+181-> ('LC7910', 'Trump supporter')
+182-> None
+183-> None
+184-> None
+185-> ('FH2512', 'Illegally parker')
+186-> ('JO1111', 'Jacinda supporter')
+187-> ('OV9844', '')
+188-> None
+189-> None
+190-> None
+191-> None
+192-> None
+193-> ('KU4093', '')
+194-> None
+195-> None
+196-> None
+197-> ('QH7855', '')
+198-> ('QS6464', '')
+199-> None

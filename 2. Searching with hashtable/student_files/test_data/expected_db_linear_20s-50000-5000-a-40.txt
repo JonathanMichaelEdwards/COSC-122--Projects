@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('YS0429', '')
+1-> None
+2-> None
+3-> ('TK3853', '')
+4-> ('OC6807', '')
+5-> None
+6-> ('TE5623', 'UC Student')
+7-> None
+8-> None
+9-> None
+10-> None
+11-> None
+12-> None
+13-> ('QZ5640', 'Politician')
+14-> None
+15-> None
+16-> None
+17-> ('NK9868', '')
+18-> ('RW4178', 'Brexiteer')
+19-> ('XY8043', 'UC Student')
+20-> ('HQ0954', 'Illegally parker')
+21-> ('NA0097', 'Australia Supporter')
+22-> ('RK5976', 'Horrible colour scheme')
+23-> ('UL6045', '')
+24-> ('XF9684', '')
+25-> None
+26-> None
+27-> None
+28-> None
+29-> ('RR3049', '')
+30-> None
+31-> ('CQ8367', '')
+32-> ('QR4007', '')
+33-> ('DH8022', '')
+34-> ('VS7730', 'Hilary supporter')
+35-> None
+36-> None
+37-> ('UN4221', 'Underage driving')
+38-> None
+39-> ('LY0977', '')

@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> None
+3-> ('JX0682', 'Learners licence')
+4-> None
+5-> None
+6-> None
+7-> None
+8-> ('YP4202', 'Axe murderer')
+9-> ('SF6544', '')
+10-> None
+11-> None
+12-> None
+13-> ('FX7586', '')
+14-> None
+15-> ('RL5968', '')
+16-> ('IS7161', '')
+17-> None
+18-> None
+19-> ('LQ1949', 'Time lord')
+20-> None
+21-> ('ZG8391', '')
+22-> ('PF1343', '')
+23-> None
+24-> ('LH0425', 'Axe murderer')
+25-> ('OV0088', 'Jail-breaker')
+26-> None
+27-> ('NX6473', '')
+28-> ('RN9311', 'Windows phone fan')
+29-> ('WD6856', '')
+30-> None
+31-> None
+32-> None
+33-> ('SG8921', '')
+34-> ('AX5517', '')
+35-> ('BA4006', '')
+36-> ('IW8752', '')
+37-> ('NB1385', '')
+38-> ('HW0150', '')
+39-> None

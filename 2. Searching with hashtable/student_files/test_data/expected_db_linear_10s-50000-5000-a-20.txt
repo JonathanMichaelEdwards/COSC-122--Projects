@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('JA0790', '')
+1-> ('JM4358', 'Freegan')
+2-> ('MG8864', '')
+3-> None
+4-> ('RE8989', '')
+5-> None
+6-> ('DZ3936', 'Crusaders supporter')
+7-> ('XZ6056', 'Illegally parker')
+8-> ('KM5264', 'Cheats at golf')
+9-> ('UD2558', '')
+10-> None
+11-> None
+12-> None
+13-> None
+14-> None
+15-> None
+16-> None
+17-> ('ER2375', 'Kiwi fruit fief')
+18-> None
+19-> ('AY3908', '')

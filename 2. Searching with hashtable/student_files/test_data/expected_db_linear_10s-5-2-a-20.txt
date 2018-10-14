@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('WV7869', '')
+3-> ('EP2810', '')
+4-> ('TC7694', '')
+5-> ('HT8989', '')
+6-> ('SD3448', '')
+7-> ('SW4178', 'Country music fan')
+8-> ('XC4768', '')
+9-> None
+10-> None
+11-> None
+12-> None
+13-> None
+14-> ('DB3723', '')
+15-> None
+16-> ('EQ6829', 'Illegally parker')
+17-> None
+18-> None
+19-> ('UU7089', 'Android fan')

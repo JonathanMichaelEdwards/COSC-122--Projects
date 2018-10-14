@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> None
+1-> ('JM2975', 'Texts while driving')
+2-> ('NT6880', '')
+3-> None
+4-> None
+5-> ('KV6221', 'Omnivore')
+6-> ('XC4121', 'Bogun')
+7-> ('XW7832', '')
+8-> None
+9-> ('KT8434', '')
+10-> None
+11-> None
+12-> None
+13-> None
+14-> None
+15-> ('ET3691', '')
+16-> ('KF9371', '')
+17-> None
+18-> ('CX8581', 'Smokey')
+19-> ('OC1358', 'Australia Supporter')

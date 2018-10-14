@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> ('BB4475', '')
+2-> ('MI5980', '')
+3-> ('ZZ2152', 'Elvis Impersonator')
+4-> None
+5-> None
+6-> None
+7-> None
+8-> None
+9-> None
+10-> ('AB2514', '')
+11-> ('EA7129', '')
+12-> ('RK6705', '')
+13-> ('FO9231', '')
+14-> None
+15-> ('EI3207', '')
+16-> ('FK1953', '')
+17-> None
+18-> ('BR6577', 'Country and Western music fan')
+19-> None
+20-> ('JL1972', 'Alligator person')
+21-> ('LW8506', '')
+22-> ('QI5183', 'Putin supporter')
+23-> ('AK0657', '')
+24-> ('IF8582', '')
+25-> ('VL9305', '')
+26-> ('DI8400', 'Cloned plate')
+27-> ('OF0275', '')
+28-> None
+29-> None
+30-> None
+31-> None
+32-> None
+33-> None
+34-> None
+35-> None
+36-> ('EJ5531', 'Country music fan')
+37-> ('HM5179', 'Goat')
+38-> None
+39-> None

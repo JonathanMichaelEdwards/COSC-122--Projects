@@ -1,0 +1,201 @@
+Linear Hash Table:
+0-> ('IT6044', '')
+1-> ('JQ9755', '')
+2-> ('CK1787', 'Alternate universe licence')
+3-> ('BF4774', 'Elvis Impersonator')
+4-> ('SN5991', 'Windows phone fan')
+5-> ('LV3674', 'Ghost')
+6-> ('WN4024', 'Kiwi fruit fief')
+7-> ('NP3852', 'Terrible parallel parker')
+8-> ('WV0592', 'Strudle stealer')
+9-> ('XQ9866', '')
+10-> ('YS2989', 'Illegally parker')
+11-> ('YY1621', '')
+12-> ('RS7339', 'Intergalactic licence')
+13-> ('BD8121', 'Texts while driving')
+14-> ('GX8412', '')
+15-> ('ZU4324', '')
+16-> None
+17-> None
+18-> None
+19-> None
+20-> ('EG2188', 'Pavlova poacher')
+21-> None
+22-> None
+23-> ('TQ4991', '')
+24-> ('TE2224', 'Tomato thief')
+25-> ('HU8614', '')
+26-> None
+27-> None
+28-> None
+29-> None
+30-> ('QZ8048', '')
+31-> None
+32-> ('IY7620', '')
+33-> None
+34-> None
+35-> None
+36-> None
+37-> None
+38-> None
+39-> None
+40-> ('AO2144', '')
+41-> ('TZ8507', '')
+42-> None
+43-> None
+44-> ('MP1128', 'Pescaterian')
+45-> None
+46-> ('WC0836', '')
+47-> None
+48-> None
+49-> None
+50-> None
+51-> ('LM1549', '')
+52-> ('PO1876', '')
+53-> ('MN9385', '')
+54-> ('WA1083', '')
+55-> None
+56-> ('IN0499', '')
+57-> None
+58-> None
+59-> None
+60-> ('EF9012', '')
+61-> ('FU5418', 'Simpson')
+62-> ('RH9516', '')
+63-> None
+64-> None
+65-> None
+66-> None
+67-> ('YL2519', 'ZM supporter')
+68-> None
+69-> None
+70-> None
+71-> ('VL1717', 'Chews with mouth open')
+72-> ('ZE3427', '')
+73-> ('PL1573', 'Drunk driver')
+74-> None
+75-> None
+76-> None
+77-> None
+78-> None
+79-> None
+80-> None
+81-> ('CM3584', '')
+82-> ('HZ7047', '')
+83-> ('FG4713', '')
+84-> ('DN8162', '')
+85-> None
+86-> ('OQ4812', '')
+87-> None
+88-> ('OK7196', '')
+89-> None
+90-> None
+91-> None
+92-> None
+93-> None
+94-> None
+95-> None
+96-> ('DX9101', '')
+97-> ('SY2998', 'Simpson')
+98-> None
+99-> ('CG0750', '')
+100-> ('EN6901', 'Kiwi fruit fief')
+101-> ('OU6550', '')
+102-> None
+103-> ('EC1005', '')
+104-> ('OO8052', '')
+105-> ('MP0379', 'Cheats at golf')
+106-> None
+107-> None
+108-> ('VY5344', '')
+109-> None
+110-> ('AI3198', 'Jail-breaker')
+111-> ('LU1850', '')
+112-> ('FB4775', 'UC Student')
+113-> ('YR6056', '')
+114-> ('ZH3387', '')
+115-> None
+116-> ('AC4825', '')
+117-> ('UH4448', '')
+118-> ('YK9898', '')
+119-> ('RL6543', 'Trip hop fan')
+120-> ('FC1474', '')
+121-> None
+122-> None
+123-> None
+124-> None
+125-> None
+126-> None
+127-> ('NO9804', 'Smokey')
+128-> None
+129-> ('AT8245', '')
+130-> None
+131-> None
+132-> ('FZ4331', '')
+133-> ('LI7457', '')
+134-> ('NO4510', '')
+135-> None
+136-> None
+137-> None
+138-> ('SX3197', 'Crusaders supporter')
+139-> None
+140-> None
+141-> ('BX5438', '')
+142-> ('NL0735', 'Smokey')
+143-> ('CN6263', 'Internet troll')
+144-> ('DW2792', 'Interstellar licence')
+145-> ('KR4469', '')
+146-> ('PA7298', 'Brexiteer')
+147-> ('QH2698', '')
+148-> ('TP2285', '')
+149-> ('QO2073', 'International licence')
+150-> ('IK7985', '')
+151-> ('ZK1546', '')
+152-> None
+153-> None
+154-> ('BN0236', 'Pavlova poacher')
+155-> ('WS4237', 'Simpson')
+156-> None
+157-> None
+158-> ('OM2278', 'Zombie')
+159-> None
+160-> None
+161-> None
+162-> None
+163-> None
+164-> ('HG2406', 'Terrible parallel parker')
+165-> None
+166-> ('AA2401', '')
+167-> None
+168-> None
+169-> None
+170-> ('NS9146', 'Pescaterian')
+171-> ('YS9728', '')
+172-> None
+173-> None
+174-> None
+175-> ('LT6149', '')
+176-> ('OQ0191', 'Werewolf')
+177-> None
+178-> None
+179-> ('NW8807', '')
+180-> None
+181-> None
+182-> ('IR3324', '')
+183-> None
+184-> None
+185-> ('XW4634', 'Tomato thief')
+186-> None
+187-> None
+188-> ('IW8919', '')
+189-> None
+190-> None
+191-> None
+192-> None
+193-> ('HY2599', '')
+194-> ('PZ7468', '')
+195-> ('QD5917', '')
+196-> ('NJ4344', 'Terrible parallel parker')
+197-> ('IN9381', '')
+198-> ('GI7750', '')
+199-> ('EU0097', '')

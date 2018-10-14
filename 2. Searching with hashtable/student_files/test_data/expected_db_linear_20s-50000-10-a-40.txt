@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> ('TX6428', 'Registration expired')
+2-> None
+3-> ('BJ5856', '')
+4-> ('MS1092', 'All blacks supporter')
+5-> ('MS4921', '')
+6-> ('PJ3984', '')
+7-> None
+8-> ('RE5007', '')
+9-> None
+10-> ('JV9305', '')
+11-> ('NZ5148', '')
+12-> None
+13-> ('ZN8897', 'All blacks supporter')
+14-> ('DH9976', '')
+15-> ('IB2727', '')
+16-> ('DY2523', 'Horrible colour scheme')
+17-> None
+18-> None
+19-> None
+20-> None
+21-> None
+22-> None
+23-> None
+24-> None
+25-> ('OG9698', '')
+26-> ('MG5644', 'Strudle stealer')
+27-> None
+28-> ('EK3712', '')
+29-> None
+30-> ('DW2934', '')
+31-> ('GW8155', 'UC Student')
+32-> ('GT3515', '')
+33-> ('HM9610', '')
+34-> None
+35-> None
+36-> ('RO9742', 'Crimes against fashion')
+37-> None
+38-> None
+39-> None

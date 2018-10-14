@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> ('HG1541', 'Kiwi fruit fief')
+2-> ('VJ6994', '')
+3-> None
+4-> None
+5-> ('ME6156', 'Drunk driver')
+6-> ('MV3659', 'Drifter')
+7-> ('RR4070', '')
+8-> None
+9-> None
+10-> None
+11-> ('CX8814', 'Body snatcher')
+12-> ('ED1583', '')
+13-> ('DE0755', '')
+14-> ('FZ7368', 'Jail-breaker')
+15-> None
+16-> None
+17-> None
+18-> None
+19-> None
+20-> None
+21-> ('VO9510', 'Banana burglar')
+22-> ('MD4554', 'Brexiteer')
+23-> ('BU9756', 'SA Supporter')
+24-> ('JU3365', '')
+25-> ('NZ1123', 'Trip hop fan')
+26-> ('HV4713', '')
+27-> ('AH2146', '')
+28-> ('LU7594', '')
+29-> None
+30-> None
+31-> None
+32-> ('YV6435', '')
+33-> None
+34-> None
+35-> None
+36-> ('DH4973', 'Royal family')
+37-> ('QX4358', '')
+38-> None
+39-> None

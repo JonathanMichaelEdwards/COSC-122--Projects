@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('QQ8298', 'Extra Terrestrial')
+1-> None
+2-> ('WN6170', '')
+3-> None
+4-> ('HN2740', 'Internet troll')
+5-> None
+6-> ('AP2718', '')
+7-> ('QJ9390', '')
+8-> None
+9-> ('KI6437', 'SA Supporter')
+10-> None
+11-> ('VG0630', 'Windows phone fan')
+12-> None
+13-> None
+14-> ('PJ1963', '')
+15-> None
+16-> None
+17-> ('NO7758', '')
+18-> ('AD6189', '')
+19-> None

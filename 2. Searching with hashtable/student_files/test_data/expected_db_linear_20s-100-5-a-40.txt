@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> ('AY4511', 'Banana burglar')
+3-> None
+4-> None
+5-> None
+6-> None
+7-> None
+8-> None
+9-> None
+10-> None
+11-> None
+12-> None
+13-> None
+14-> None
+15-> None
+16-> ('CS2124', '')
+17-> ('ST6124', '')
+18-> ('AF2666', 'Snail speed')
+19-> ('TD6031', 'Alligator person')
+20-> ('IM3747', 'All blacks supporter')
+21-> ('SV2997', 'Vegan')
+22-> ('EW6344', 'Time lord')
+23-> ('XK2446', 'Registration expired')
+24-> ('YD1164', 'UC Student')
+25-> ('JF5072', '')
+26-> None
+27-> None
+28-> None
+29-> ('CE7694', '')
+30-> ('IC0497', '')
+31-> ('ER2856', '')
+32-> ('SD0958', '')
+33-> ('CX3941', '')
+34-> ('HD0866', 'Ghost')
+35-> ('HO2148', 'Bald tyres')
+36-> ('SF3749', '')
+37-> None
+38-> ('SC8380', '')
+39-> None

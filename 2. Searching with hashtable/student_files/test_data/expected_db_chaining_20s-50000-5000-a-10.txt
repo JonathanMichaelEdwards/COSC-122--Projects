@@ -1,0 +1,11 @@
+Chaining Hash Table:
+0-> [('HQ0954', 'Illegally parker'), ('NA0097', 'Australia Supporter'), ('XF9684', ''), ('YS0429', '')]
+1-> [('CQ8367', ''), ('QR4007', ''), ('RK5976', 'Horrible colour scheme'), ('UL6045', ''), ('VS7730', 'Hilary supporter')]
+2-> []
+3-> [('DH8022', ''), ('QZ5640', 'Politician'), ('TK3853', '')]
+4-> [('OC6807', '')]
+5-> []
+6-> [('TE5623', 'UC Student')]
+7-> [('NK9868', ''), ('UN4221', 'Underage driving')]
+8-> [('RW4178', 'Brexiteer')]
+9-> [('LY0977', ''), ('RR3049', ''), ('XY8043', 'UC Student')]

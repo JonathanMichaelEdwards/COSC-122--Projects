@@ -1,0 +1,201 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> None
+3-> ('EA1087', '')
+4-> None
+5-> ('NU0591', '')
+6-> None
+7-> ('CQ1522', 'Body snatcher')
+8-> None
+9-> None
+10-> None
+11-> None
+12-> None
+13-> ('QX8407', '')
+14-> None
+15-> None
+16-> None
+17-> None
+18-> ('RC2756', 'Terrible parallel parker')
+19-> None
+20-> None
+21-> ('MI3469', 'Country and Western music fan')
+22-> ('RI5081', '')
+23-> ('XJ4696', '')
+24-> None
+25-> None
+26-> None
+27-> None
+28-> ('SW6780', 'Terrible parallel parker')
+29-> ('CS3087', 'Royal family')
+30-> ('FL8986', 'Kiwi fruit fief')
+31-> ('QV5616', 'Body snatcher')
+32-> None
+33-> None
+34-> None
+35-> ('NU2050', 'Giant insect')
+36-> ('PB4358', '')
+37-> None
+38-> None
+39-> ('GQ1117', '')
+40-> None
+41-> None
+42-> None
+43-> ('SS1968', '')
+44-> ('XU1931', '')
+45-> None
+46-> None
+47-> None
+48-> ('AM4610', '')
+49-> ('XB7699', 'Cloned plate')
+50-> ('SQ8517', '')
+51-> None
+52-> None
+53-> None
+54-> None
+55-> None
+56-> None
+57-> ('QV8971', 'Putin supporter')
+58-> ('CT7203', 'Time lord')
+59-> ('WF8770', '')
+60-> None
+61-> ('UM3560', '')
+62-> None
+63-> None
+64-> None
+65-> ('HL4105', '')
+66-> None
+67-> None
+68-> None
+69-> None
+70-> ('DO6930', '')
+71-> ('HQ7478', '')
+72-> ('EL2231', 'RDU supporter')
+73-> ('SM5196', '')
+74-> None
+75-> ('EE1560', '')
+76-> None
+77-> ('BU0124', '')
+78-> ('NW6006', '')
+79-> ('KT1794', '')
+80-> None
+81-> None
+82-> None
+83-> None
+84-> None
+85-> None
+86-> None
+87-> ('GN6915', 'SA Supporter')
+88-> ('FH0830', 'Horrible colour scheme')
+89-> None
+90-> ('GV5672', '')
+91-> None
+92-> None
+93-> ('RD3780', 'Learners licence')
+94-> ('CG8582', 'Texts while driving')
+95-> ('ME8471', '')
+96-> ('VW2914', '')
+97-> ('JI1480', 'Smokey')
+98-> ('BJ4104', '')
+99-> ('DG8785', '')
+100-> ('TK8042', 'Elvis Impersonator')
+101-> ('YQ8007', '')
+102-> None
+103-> None
+104-> None
+105-> None
+106-> None
+107-> None
+108-> ('JT0834', 'Internet troll')
+109-> ('VG6714', '')
+110-> None
+111-> ('EX5019', '')
+112-> ('TZ8004', 'Snail speed')
+113-> ('QW2543', '')
+114-> None
+115-> None
+116-> None
+117-> ('LJ1957', 'UC Student')
+118-> ('QJ4625', 'Android fan')
+119-> ('JH3759', '')
+120-> None
+121-> None
+122-> ('GU1547', 'All blacks supporter')
+123-> ('QR1880', '')
+124-> ('SB3629', '')
+125-> None
+126-> None
+127-> ('PS2959', '')
+128-> None
+129-> None
+130-> None
+131-> None
+132-> ('CW7394', '')
+133-> None
+134-> None
+135-> ('HF1973', 'Cloned plate')
+136-> ('YV9963', 'Hilary supporter')
+137-> None
+138-> ('AG8423', 'Giant insect')
+139-> None
+140-> ('MI9002', 'Vegan')
+141-> None
+142-> None
+143-> None
+144-> None
+145-> None
+146-> ('BF3862', 'Petrol head')
+147-> ('TD7017', 'Goat')
+148-> None
+149-> None
+150-> ('GD6899', '')
+151-> ('ZZ0161', '')
+152-> ('KB2459', '')
+153-> ('AO1928', '')
+154-> ('SX0650', '')
+155-> ('AW7407', 'ZM supporter')
+156-> ('AP8372', 'Underage driving')
+157-> ('CC4268', 'Learners licence')
+158-> ('KB5506', 'UC Student')
+159-> ('YG8991', '')
+160-> None
+161-> None
+162-> ('CM1077', '')
+163-> ('LP4859', 'Pescaterian')
+164-> ('RG2351', '')
+165-> ('ST9377', '')
+166-> None
+167-> None
+168-> ('OM0209', 'Giant insect')
+169-> ('SZ2639', '')
+170-> None
+171-> ('OV8074', '')
+172-> ('RI7174', '')
+173-> ('BV0783', '')
+174-> None
+175-> None
+176-> None
+177-> ('FW5477', '')
+178-> None
+179-> ('YN6030', 'ZM supporter')
+180-> ('HU8370', '')
+181-> ('XK5681', 'Pavlova poacher')
+182-> None
+183-> None
+184-> ('DE6783', 'Windows phone fan')
+185-> ('AR9301', '')
+186-> ('NK3977', '')
+187-> None
+188-> None
+189-> ('SW2079', 'Trip hop fan')
+190-> ('YK9933', '')
+191-> ('JK8937', '')
+192-> ('QQ1785', '')
+193-> None
+194-> ('VU9988', 'Giant insect')
+195-> ('EB2791', 'Axe murderer')
+196-> ('QP9491', 'Cheats at monopoly')
+197-> ('BH7256', 'Cheats at monopoly')
+198-> ('LX5555', 'Loud')
+199-> ('YA4965', 'Snail speed')

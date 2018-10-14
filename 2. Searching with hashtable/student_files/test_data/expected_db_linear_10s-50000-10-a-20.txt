@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('MQ0153', '')
+1-> ('XO5642', '')
+2-> None
+3-> None
+4-> None
+5-> None
+6-> ('KV0208', 'Freegan')
+7-> None
+8-> None
+9-> ('OP5345', '')
+10-> ('WK5203', '')
+11-> None
+12-> None
+13-> None
+14-> ('HK5481', '')
+15-> ('VK5695', '')
+16-> ('QZ8389', 'Body snatcher')
+17-> None
+18-> ('DG5153', 'Omnivore')
+19-> ('RZ8730', '')

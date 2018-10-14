@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('MM2014', '')
+1-> None
+2-> None
+3-> None
+4-> None
+5-> None
+6-> ('DG8020', '')
+7-> ('LV0787', '')
+8-> ('DN2476', 'Outstanding parking tickets')
+9-> ('SG6836', 'Elvis Fan')
+10-> ('ZL8791', '')
+11-> ('UD8812', '')
+12-> ('EP6675', '')
+13-> None
+14-> None
+15-> None
+16-> ('EU0452', 'Petrol head')
+17-> None
+18-> ('ZR3783', 'Jacinda supporter')
+19-> None

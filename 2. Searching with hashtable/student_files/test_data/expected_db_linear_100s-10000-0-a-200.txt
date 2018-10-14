@@ -1,0 +1,201 @@
+Linear Hash Table:
+0-> ('NS3191', 'Brexiteer')
+1-> None
+2-> None
+3-> None
+4-> None
+5-> ('VG8786', 'UC Student')
+6-> ('CQ4874', 'Bridges Supporter')
+7-> ('NJ7901', '')
+8-> ('OF5486', '')
+9-> ('QZ0434', '')
+10-> ('EY5545', '')
+11-> ('HI2851', 'Alternate universe licence')
+12-> ('SK1932', '')
+13-> ('RT9045', '')
+14-> ('FJ7404', 'Elvis Fan')
+15-> ('HN3752', 'Learners licence')
+16-> ('XY4909', '')
+17-> None
+18-> None
+19-> None
+20-> ('AL5281', '')
+21-> ('HS1872', '')
+22-> ('PK6051', 'Extra Terrestrial')
+23-> ('OF0140', '')
+24-> ('HG2169', 'Drum n bass fan')
+25-> None
+26-> None
+27-> None
+28-> None
+29-> ('LA0795', '')
+30-> None
+31-> ('EJ5206', 'Putin supporter')
+32-> ('MA7618', '')
+33-> ('QO9714', '')
+34-> ('DV7600', 'Alligator person')
+35-> None
+36-> ('TW9902', '')
+37-> None
+38-> ('QT6358', 'Time lord')
+39-> None
+40-> None
+41-> ('DY5756', 'Texts while driving')
+42-> ('HK2694', '')
+43-> ('QG8805', '')
+44-> ('KF0923', '')
+45-> None
+46-> ('DQ6464', 'Strudle stealer')
+47-> ('NE4640', '')
+48-> ('IV3111', 'Suspended driving licence')
+49-> ('JF7947', '')
+50-> ('VG2946', 'Axe murderer')
+51-> None
+52-> ('AK9365', '')
+53-> ('LZ4373', 'Crusaders supporter')
+54-> None
+55-> ('KN6344', 'Politician')
+56-> None
+57-> None
+58-> None
+59-> None
+60-> None
+61-> ('PZ3115', '')
+62-> ('KY4193', '')
+63-> ('DY9912', '')
+64-> ('ZO1476', '')
+65-> None
+66-> None
+67-> None
+68-> ('GC1158', '')
+69-> None
+70-> ('CY6054', '')
+71-> ('WQ3797', '')
+72-> ('OS8513', '')
+73-> None
+74-> None
+75-> None
+76-> None
+77-> None
+78-> ('AF1609', '')
+79-> ('GX5744', '')
+80-> ('LF5583', '')
+81-> ('HE1068', '')
+82-> ('BV4867', '')
+83-> ('NY4710', '')
+84-> ('SU9260', '')
+85-> ('CV0810', '')
+86-> ('QH2975', '')
+87-> ('WQ9041', '')
+88-> ('YG5844', '')
+89-> None
+90-> ('QD9412', '')
+91-> ('SN5342', '')
+92-> None
+93-> None
+94-> None
+95-> ('HV7247', '')
+96-> None
+97-> None
+98-> ('YF3715', 'Illegally parker')
+99-> None
+100-> None
+101-> None
+102-> None
+103-> None
+104-> None
+105-> None
+106-> None
+107-> None
+108-> None
+109-> None
+110-> ('LV2838', '')
+111-> ('UD3920', 'Loud')
+112-> ('YD1067', 'Learners licence')
+113-> None
+114-> None
+115-> None
+116-> None
+117-> None
+118-> None
+119-> None
+120-> ('EJ2615', '')
+121-> None
+122-> ('PI4453', '')
+123-> None
+124-> None
+125-> None
+126-> ('UJ8062', 'Omnivore')
+127-> ('YX8768', 'Brexiteer')
+128-> None
+129-> None
+130-> None
+131-> ('RK8876', '')
+132-> None
+133-> None
+134-> None
+135-> None
+136-> None
+137-> None
+138-> None
+139-> None
+140-> None
+141-> ('SH5136', '')
+142-> None
+143-> ('YZ5192', '')
+144-> None
+145-> None
+146-> ('OB5863', '')
+147-> None
+148-> None
+149-> None
+150-> ('BA3692', '')
+151-> None
+152-> ('BZ9079', 'All blacks supporter')
+153-> ('XI3209', '')
+154-> ('CY9411', '')
+155-> ('IL4438', '')
+156-> None
+157-> ('DN3164', 'Elvis Impersonator')
+158-> ('SI3732', 'Elvis Fan')
+159-> ('KC9094', '')
+160-> ('YC5911', '')
+161-> None
+162-> None
+163-> None
+164-> None
+165-> None
+166-> None
+167-> None
+168-> ('LL5527', 'SA Supporter')
+169-> ('RG0449', '')
+170-> ('XU6075', '')
+171-> ('IJ3011', 'Cloned plate')
+172-> None
+173-> None
+174-> None
+175-> None
+176-> None
+177-> None
+178-> None
+179-> None
+180-> ('ZB0915', '')
+181-> ('QC4192', '')
+182-> ('XL8706', '')
+183-> ('DJ9322', '')
+184-> ('QB0701', '')
+185-> ('QG2650', '')
+186-> ('RH2224', '')
+187-> None
+188-> None
+189-> None
+190-> ('AA1710', 'Extra Terrestrial')
+191-> ('LW3798', '')
+192-> ('MJ2892', '')
+193-> ('RA1055', '')
+194-> ('UV9149', 'Cheats at monopoly')
+195-> ('QY5447', 'Crusaders supporter')
+196-> ('OZ0116', 'Terrorist')
+197-> ('GD7307', '')
+198-> ('NV8467', '')
+199-> None

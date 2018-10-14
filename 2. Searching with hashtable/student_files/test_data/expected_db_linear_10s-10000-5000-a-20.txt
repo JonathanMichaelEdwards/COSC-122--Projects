@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('AN1971', 'Country and Western music fan')
+1-> ('OH5250', '')
+2-> None
+3-> ('CP2113', 'Wanted by Interpol')
+4-> ('MX7853', '')
+5-> ('ZF2732', '')
+6-> ('VE5540', '')
+7-> None
+8-> None
+9-> None
+10-> None
+11-> None
+12-> None
+13-> ('CS2088', '')
+14-> ('AP4309', 'Brexiteer')
+15-> ('TH2559', '')
+16-> ('WY2046', 'Australia Supporter')
+17-> None
+18-> None
+19-> None

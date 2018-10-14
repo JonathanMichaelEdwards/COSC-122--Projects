@@ -1,0 +1,11 @@
+Chaining Hash Table:
+0-> [('EO2900', ''), ('IM3095', ''), ('VM0659', '')]
+1-> [('CU1203', ''), ('IX9967', '')]
+2-> [('QV5735', ''), ('XB9408', 'Freegan')]
+3-> [('AX2821', 'Alternate universe licence'), ('EK6255', ''), ('YV5123', 'Illegally parker')]
+4-> [('MC9350', ''), ('YG9785', 'Country and Western music fan')]
+5-> []
+6-> [('AE3372', ''), ('BX2957', ''), ('XA9072', 'Hip hop fan')]
+7-> [('XA6720', 'Car enthusiast')]
+8-> [('BY4774', 'Bridges Supporter'), ('ZA8383', '')]
+9-> [('AF5833', ''), ('GY3104', 'Royal family')]

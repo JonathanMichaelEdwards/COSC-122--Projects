@@ -1,0 +1,11 @@
+Linear Hash Table:
+0-> ('LA8472', '')
+1-> None
+2-> ('XY9256', '')
+3-> None
+4-> None
+5-> None
+6-> None
+7-> ('YT1606', '')
+8-> ('BC2448', 'Tomato thief')
+9-> ('EY3889', '')

@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('JQ9429', '')
+1-> ('XE8411', '')
+2-> None
+3-> None
+4-> None
+5-> None
+6-> None
+7-> None
+8-> ('MJ0059', 'Freegan')
+9-> None
+10-> None
+11-> None
+12-> None
+13-> ('TR7717', 'International licence')
+14-> None
+15-> None
+16-> ('AM7615', '')
+17-> ('TT9149', '')
+18-> None
+19-> ('BE9811', 'Zombie')
+20-> ('SY0217', 'Extra Terrestrial')
+21-> ('GT6528', '')
+22-> ('UG2961', '')
+23-> ('SI9096', 'Suspended driving licence')
+24-> ('ZB9826', '')
+25-> None
+26-> ('JE0015', '')
+27-> ('OT4865', '')
+28-> None
+29-> None
+30-> None
+31-> ('LF3944', '')
+32-> None
+33-> None
+34-> ('NX5884', 'Remain supporter')
+35-> ('OB6520', '')
+36-> ('LE9870', 'Cheats at golf')
+37-> ('SK8500', 'Suspended driving licence')
+38-> ('IA4731', 'Outstanding parking tickets')
+39-> None

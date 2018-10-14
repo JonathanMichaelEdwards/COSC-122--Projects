@@ -1,0 +1,111 @@
+database=100
+AK3900:
+AQ1462:Underage driving
+AX3886:Jacinda supporter
+BB4619:Muppet
+BE6957:
+BK8597:
+BT9507:
+BW5687:Country and Western music fan
+CC8834:Canivore
+CR8122:
+CS4602:Jail-breaker
+CZ5494:
+DA0381:
+DH2822:
+DW4115:Snail speed
+ED1868:
+EM4743:Vegan
+FB2744:
+FL7523:
+FM2530:
+FN0807:
+FR9437:
+GC2889:Android fan
+GI1476:
+GJ0159:Terrible parallel parker
+GS3455:
+GW3413:Kiwi fruit fief
+HC8652:
+HF5128:Royal family
+HG1830:
+IG7842:
+IQ0108:
+IY5744:Vampire
+JG8600:Elvis Fan
+JK8661:Cheats at poker
+JO1619:
+JO7970:
+JQ5957:Car enthusiast
+JT1918:Crusaders supporter
+JT7374:
+KB7440:Giant insect
+KC2800:
+KC6762:
+KD9838:Used car sales person
+KJ1540:Wanted by Interpol
+KO2790:
+KR9982:
+KT7391:
+LC4018:
+LJ7575:
+LR0588:
+LU0581:
+MA7175:
+MM2965:Apple fan
+NN0607:UC Staff
+NQ1962:
+NS1513:
+NU4713:Smokey
+OD3121:SA Supporter
+OD3558:
+OI1353:Snail speed
+ON0608:
+PA7073:Drifter
+PN7554:ZM supporter
+QN4921:Noisey eater
+QZ5638:RDU supporter
+RD8144:
+RK4604:
+RT1495:
+SD9836:Brexiteer
+SE5991:
+SS4131:
+SX6070:Kiwi fruit fief
+TG4474:
+TL6715:
+TO8100:
+TV2361:
+TY6658:
+UF3271:
+UJ4758:
+UL7885:Loud
+UU3863:Hilary supporter
+VC6016:Bogun
+VI0002:Hip hop fan
+VJ8892:Blackberry fan
+VO3792:
+VP8212:Trump supporter
+VX1795:Muppet
+WE3306:Internet troll
+WE3523:
+WU5464:
+WV6556:
+WX0212:Country music fan
+XS7891:
+YI8011:Drunk driver
+YJ5553:Country music fan
+YK8765:Putin supporter
+YT3154:
+ZO6781:
+ZY1943:
+
+sightings=5
+UJ4758;2018-01-20T00:11:28
+KX7917;2018-01-20T00:12:19
+JO1619;2018-01-20T00:13:01
+JT7374;2018-01-20T00:13:59
+TY6658;2018-01-20T00:13:59
+
+seen+flagged=0,0
+

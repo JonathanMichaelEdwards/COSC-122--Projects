@@ -1,0 +1,6 @@
+Chaining Hash Table:
+0-> [('YG9164', 'Windows phone fan')]
+1-> [('CZ7565', 'Slow at drive-through'), ('GW1425', ''), ('OT4135', '')]
+2-> [('GI6787', '')]
+3-> [('AB9906', ''), ('QA3026', ''), ('TY6062', 'Canivore'), ('WY6750', '')]
+4-> [('GK8861', '')]

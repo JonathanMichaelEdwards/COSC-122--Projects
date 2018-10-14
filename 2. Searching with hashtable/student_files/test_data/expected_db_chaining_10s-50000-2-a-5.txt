@@ -1,0 +1,6 @@
+Chaining Hash Table:
+0-> [('QQ8298', 'Extra Terrestrial')]
+1-> [('AP2718', ''), ('VG0630', 'Windows phone fan')]
+2-> [('NO7758', ''), ('QJ9390', ''), ('WN6170', '')]
+3-> [('AD6189', '')]
+4-> [('HN2740', 'Internet troll'), ('KI6437', 'SA Supporter'), ('PJ1963', '')]

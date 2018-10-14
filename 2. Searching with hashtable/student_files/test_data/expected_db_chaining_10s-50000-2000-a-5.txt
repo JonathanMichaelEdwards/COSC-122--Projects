@@ -1,0 +1,6 @@
+Chaining Hash Table:
+0-> [('DS2876', 'Remain supporter')]
+1-> [('FZ9339', ''), ('PA2282', ''), ('UB1186', 'Bogun')]
+2-> [('CI5312', ''), ('FW4640', ''), ('GF2243', '')]
+3-> [('FO9871', ''), ('JW4879', 'RDU supporter'), ('LB2499', 'Axe murderer')]
+4-> []

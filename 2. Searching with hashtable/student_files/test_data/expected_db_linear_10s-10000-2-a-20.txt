@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> None
+3-> None
+4-> ('YV3887', '')
+5-> None
+6-> ('FH4256', '')
+7-> None
+8-> ('AF4415', '')
+9-> None
+10-> ('HY4329', '')
+11-> ('PO4629', 'UC Student')
+12-> ('LR3246', '')
+13-> ('UC2173', '')
+14-> ('OX4112', 'Interstellar licence')
+15-> None
+16-> ('JZ0850', 'Giant insect')
+17-> ('XI3682', '')
+18-> None
+19-> None

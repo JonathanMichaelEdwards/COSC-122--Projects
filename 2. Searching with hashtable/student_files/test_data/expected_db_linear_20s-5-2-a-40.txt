@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> ('QV6003', '')
+2-> None
+3-> None
+4-> None
+5-> ('NM0436', '')
+6-> None
+7-> None
+8-> ('FV4083', '')
+9-> None
+10-> None
+11-> ('AP8368', 'Extra Terrestrial')
+12-> ('JM2998', '')
+13-> ('PT9911', 'Country music fan')
+14-> ('SK2708', 'Cloned plate')
+15-> ('RQ8944', '')
+16-> ('VV8872', '')
+17-> None
+18-> None
+19-> ('HO6111', '')
+20-> None
+21-> None
+22-> None
+23-> ('JF0792', 'Brexiteer')
+24-> None
+25-> None
+26-> None
+27-> ('RR1669', '')
+28-> None
+29-> None
+30-> None
+31-> ('PA2517', '')
+32-> ('CS7884', '')
+33-> ('FS5939', 'Petrol head')
+34-> ('WI9899', 'Car enthusiast')
+35-> ('AD0643', 'Goat')
+36-> ('AT6678', '')
+37-> ('LZ1309', 'Apple fan')
+38-> ('KB9728', '')
+39-> None

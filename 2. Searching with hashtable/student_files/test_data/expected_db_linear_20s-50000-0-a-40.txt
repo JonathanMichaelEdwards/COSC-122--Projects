@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('OU6474', '')
+1-> ('BZ0563', 'Wanted by Interpol')
+2-> ('UP0674', '')
+3-> None
+4-> None
+5-> None
+6-> None
+7-> ('ZV3487', '')
+8-> None
+9-> ('GZ8502', 'ALL CAPS TWEETER')
+10-> None
+11-> ('IG3717', '')
+12-> ('RC1148', 'Strudle stealer')
+13-> ('YM1195', 'Petrol head')
+14-> None
+15-> None
+16-> None
+17-> None
+18-> ('LT5239', '')
+19-> None
+20-> None
+21-> ('XQ8993', 'Pescaterian')
+22-> None
+23-> None
+24-> None
+25-> ('PY7471', 'ZM supporter')
+26-> None
+27-> ('BA6168', '')
+28-> ('QO9391', 'Muppet')
+29-> ('ST5711', '')
+30-> ('PZ8726', '')
+31-> None
+32-> None
+33-> ('GD2397', 'Internet troll')
+34-> ('AX1247', '')
+35-> ('DX6318', 'Car enthusiast')
+36-> ('BP8113', '')
+37-> ('DJ7775', 'Axe murderer')
+38-> None
+39-> None

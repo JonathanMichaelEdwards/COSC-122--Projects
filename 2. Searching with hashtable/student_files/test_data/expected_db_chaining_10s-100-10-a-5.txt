@@ -1,0 +1,6 @@
+Chaining Hash Table:
+0-> [('NG1558', 'Vampire')]
+1-> [('XY1523', '')]
+2-> [('JU5775', ''), ('MQ5555', ''), ('ZH7924', 'Jail-breaker')]
+3-> [('JR7142', ''), ('RD3473', 'Blackberry fan')]
+4-> [('BF1318', ''), ('HF8027', ''), ('MV3587', 'Simpson')]

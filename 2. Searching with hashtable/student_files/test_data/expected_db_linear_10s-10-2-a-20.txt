@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> None
+1-> ('LX4808', 'Bogun')
+2-> ('RR5498', 'Freegan')
+3-> None
+4-> None
+5-> None
+6-> ('EI9651', '')
+7-> None
+8-> ('IS5974', '')
+9-> None
+10-> None
+11-> ('BF0187', '')
+12-> ('GV6146', '')
+13-> None
+14-> ('WJ7483', 'Outstanding parking tickets')
+15-> ('QX7138', 'Outstanding parking tickets')
+16-> ('SZ4045', '')
+17-> None
+18-> None
+19-> ('PJ7539', 'Cheats at golf')

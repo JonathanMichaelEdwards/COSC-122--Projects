@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> ('IO4273', 'Strudle stealer')
+2-> None
+3-> ('BY0755', '')
+4-> None
+5-> None
+6-> None
+7-> None
+8-> ('EQ6731', 'Ghost')
+9-> ('QT6672', '')
+10-> ('DD0812', 'Pescaterian')
+11-> ('RW7375', '')
+12-> ('TZ3922', '')
+13-> ('UV0968', 'Simpson')
+14-> ('JN8056', '')
+15-> ('BN9179', '')
+16-> ('YJ7609', 'Winston supporter')
+17-> None
+18-> ('WD9704', '')
+19-> None
+20-> None
+21-> None
+22-> None
+23-> ('DC4809', '')
+24-> None
+25-> ('IU2303', '')
+26-> None
+27-> None
+28-> ('XO2859', '')
+29-> ('QL0722', '')
+30-> None
+31-> ('AO2398', 'Werewolf')
+32-> None
+33-> ('KL3497', 'Wanted by Interpol')
+34-> None
+35-> None
+36-> ('HV3596', 'UC Staff')
+37-> None
+38-> None
+39-> ('CX3613', 'Chews with mouth open')

@@ -1,0 +1,6 @@
+Chaining Hash Table:
+0-> [('FL1028', ''), ('HJ0111', 'Vampire'), ('HP2007', ''), ('XH3458', 'Royal family')]
+1-> []
+2-> [('NJ5633', '')]
+3-> [('BG5554', 'ALL CAPS TWEETER'), ('WA3580', '')]
+4-> [('CG9522', 'Wanted by Interpol'), ('JB0107', ''), ('YT1708', 'All blacks supporter')]

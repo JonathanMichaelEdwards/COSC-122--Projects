@@ -1,0 +1,3 @@
+Chaining Hash Table:
+0-> [('SH7274', ''), ('TJ1312', 'Interstellar licence')]
+1-> [('GZ4366', ''), ('JA9729', 'Bridges Supporter'), ('MR4342', '')]

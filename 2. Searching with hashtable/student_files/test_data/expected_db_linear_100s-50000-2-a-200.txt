@@ -1,0 +1,201 @@
+Linear Hash Table:
+0-> None
+1-> ('EZ9510', '')
+2-> ('SY7315', 'Registration expired')
+3-> ('PK6722', '')
+4-> ('US0189', '')
+5-> ('VG9917', 'Intergalactic licence')
+6-> None
+7-> None
+8-> ('BJ4634', 'Horrible colour scheme')
+9-> ('ZD1049', 'Country music fan')
+10-> None
+11-> None
+12-> None
+13-> ('QN2487', 'Illegally parker')
+14-> None
+15-> None
+16-> ('BH6784', 'Putin supporter')
+17-> None
+18-> ('OR0309', 'Time lord')
+19-> None
+20-> ('AB5845', 'Terrorist')
+21-> ('PZ6869', 'Axe murderer')
+22-> ('YF9054', 'Windows phone fan')
+23-> ('VS2175', 'Vegetarian')
+24-> None
+25-> ('XD5821', 'Winston supporter')
+26-> None
+27-> None
+28-> ('DN8210', '')
+29-> ('MC1559', '')
+30-> ('SG2508', '')
+31-> ('UB8197', '')
+32-> ('WT4529', 'Allergic to hard work')
+33-> None
+34-> ('HX7637', '')
+35-> ('KZ1459', '')
+36-> ('LA9736', '')
+37-> ('KW3380', '')
+38-> ('RF3320', '')
+39-> None
+40-> None
+41-> None
+42-> ('GQ3952', '')
+43-> ('EC5179', 'Cheats at poker')
+44-> ('KD4822', 'Bridges Supporter')
+45-> ('KY4333', '')
+46-> ('VB5800', '')
+47-> ('CR5734', 'SA Supporter')
+48-> ('NK8348', 'Country music fan')
+49-> None
+50-> ('WM6490', 'Drum n bass fan')
+51-> None
+52-> None
+53-> None
+54-> ('MF6482', '')
+55-> ('HT5571', 'Internet troll')
+56-> ('RL9227', '')
+57-> ('IA6189', 'Pescaterian')
+58-> ('CQ0166', 'Omnivore')
+59-> ('MT3848', 'ZM supporter')
+60-> None
+61-> None
+62-> None
+63-> None
+64-> ('GE0300', 'Axe murderer')
+65-> None
+66-> None
+67-> None
+68-> None
+69-> ('VG1789', 'Banana burglar')
+70-> None
+71-> ('RE7053', '')
+72-> ('ZM8603', '')
+73-> ('RM6993', '')
+74-> ('RY9321', '')
+75-> None
+76-> None
+77-> None
+78-> ('KO6100', '')
+79-> ('WU1669', 'Noisey eater')
+80-> None
+81-> None
+82-> None
+83-> ('RI2911', 'Axe murderer')
+84-> None
+85-> None
+86-> None
+87-> None
+88-> None
+89-> ('JE6531', '')
+90-> None
+91-> ('XN0743', '')
+92-> None
+93-> None
+94-> None
+95-> None
+96-> ('VM3117', '')
+97-> None
+98-> ('LJ4739', '')
+99-> None
+100-> ('RZ1347', 'Alligator person')
+101-> ('WD9412', '')
+102-> ('SF0037', 'Drunk driver')
+103-> None
+104-> ('AQ3765', '')
+105-> None
+106-> ('MB0589', '')
+107-> None
+108-> None
+109-> ('YW3799', '')
+110-> ('SH9159', 'Hilary supporter')
+111-> None
+112-> None
+113-> None
+114-> ('CS9615', '')
+115-> ('RS0087', 'Smokey')
+116-> ('JV5541', '')
+117-> None
+118-> ('KN2967', '')
+119-> ('GQ1845', 'Vampire')
+120-> ('TZ6966', 'Hilary supporter')
+121-> None
+122-> ('VM5571', '')
+123-> None
+124-> None
+125-> None
+126-> None
+127-> None
+128-> None
+129-> ('LX1685', 'Vampire')
+130-> ('MT8958', '')
+131-> ('ZD2837', '')
+132-> None
+133-> None
+134-> None
+135-> None
+136-> ('WL0037', '')
+137-> ('CA4273', 'Car enthusiast')
+138-> ('HS8502', '')
+139-> None
+140-> None
+141-> None
+142-> ('FM6318', 'Trump supporter')
+143-> ('FW0592', '')
+144-> ('XE2064', '')
+145-> ('YJ0094', 'Wanted by Interpol')
+146-> None
+147-> None
+148-> ('EY0904', '')
+149-> ('NS5503', '')
+150-> ('WH5755', '')
+151-> None
+152-> None
+153-> ('XU7220', 'Alternate universe licence')
+154-> ('AJ0080', '')
+155-> None
+156-> None
+157-> None
+158-> ('EQ0630', 'Cheats at poker')
+159-> ('IF8178', '')
+160-> ('QA8606', 'Axe murderer')
+161-> ('IU4994', '')
+162-> ('XW7377', 'Australia Supporter')
+163-> None
+164-> None
+165-> None
+166-> None
+167-> None
+168-> None
+169-> None
+170-> None
+171-> None
+172-> None
+173-> None
+174-> ('XH4823', '')
+175-> None
+176-> None
+177-> None
+178-> ('HV0230', 'WOF expired')
+179-> ('PP4950', '')
+180-> None
+181-> None
+182-> ('AT2048', '')
+183-> ('OD1325', 'Hilary supporter')
+184-> ('BV2522', '')
+185-> ('BD8785', '')
+186-> ('MT0220', 'Texts while driving')
+187-> ('ZA8891', '')
+188-> ('XD1596', 'All blacks supporter')
+189-> ('ZQ3903', '')
+190-> None
+191-> ('NS0021', '')
+192-> ('GF0130', 'Tomato thief')
+193-> None
+194-> None
+195-> None
+196-> None
+197-> None
+198-> None
+199-> ('AI5762', 'UC Student')

@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> None
+1-> ('FZ9339', '')
+2-> ('CI5312', '')
+3-> ('FO9871', '')
+4-> ('LB2499', 'Axe murderer')
+5-> None
+6-> ('UB1186', 'Bogun')
+7-> None
+8-> None
+9-> None
+10-> None
+11-> None
+12-> ('FW4640', '')
+13-> None
+14-> None
+15-> ('DS2876', 'Remain supporter')
+16-> ('PA2282', '')
+17-> ('GF2243', '')
+18-> ('JW4879', 'RDU supporter')
+19-> None

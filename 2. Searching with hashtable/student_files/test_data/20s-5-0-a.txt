@@ -1,0 +1,31 @@
+database=20
+AM7615:
+BE9811:Zombie
+GT6528:
+IA4731:Outstanding parking tickets
+JE0015:
+JQ9429:
+LE9870:Cheats at golf
+LF3944:
+MJ0059:Freegan
+NX5884:Remain supporter
+OB6520:
+OT4865:
+SI9096:Suspended driving licence
+SK8500:Suspended driving licence
+SY0217:Extra Terrestrial
+TR7717:International licence
+TT9149:
+UG2961:
+XE8411:
+ZB9826:
+
+sightings=5
+OB6520;2017-09-13T22:17:46
+EV6662;2017-09-13T22:17:53
+TT9149;2017-09-13T22:18:31
+ZB9826;2017-09-13T22:19:29
+AM7615;2017-09-13T22:19:52
+
+seen+flagged=0,0
+

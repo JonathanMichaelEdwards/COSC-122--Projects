@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('FL1028', '')
+1-> None
+2-> None
+3-> None
+4-> ('YT1708', 'All blacks supporter')
+5-> None
+6-> None
+7-> None
+8-> None
+9-> ('CG9522', 'Wanted by Interpol')
+10-> ('HJ0111', 'Vampire')
+11-> ('HP2007', '')
+12-> ('NJ5633', '')
+13-> ('BG5554', 'ALL CAPS TWEETER')
+14-> ('WA3580', '')
+15-> ('XH3458', 'Royal family')
+16-> None
+17-> None
+18-> None
+19-> ('JB0107', '')

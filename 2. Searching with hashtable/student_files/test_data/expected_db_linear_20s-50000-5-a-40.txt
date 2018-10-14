@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> None
+3-> None
+4-> None
+5-> None
+6-> ('KG2243', '')
+7-> ('LR7760', '')
+8-> ('JZ8234', '')
+9-> ('OR9532', 'Alligator person')
+10-> ('UV6051', 'Crimes against fashion')
+11-> None
+12-> None
+13-> ('JH7652', 'Noisey eater')
+14-> None
+15-> ('AT2025', '')
+16-> None
+17-> ('DY7624', '')
+18-> ('BP0551', 'Axe murderer')
+19-> ('VC6455', 'Drunk driver')
+20-> None
+21-> None
+22-> None
+23-> ('DI1981', '')
+24-> None
+25-> None
+26-> ('CU7123', '')
+27-> ('HP6476', '')
+28-> ('LQ0488', '')
+29-> None
+30-> ('YX8305', '')
+31-> ('QL7606', '')
+32-> ('UN6504', 'Terrible parallel parker')
+33-> ('PU6164', 'Noisey eater')
+34-> ('KF6686', '')
+35-> None
+36-> None
+37-> None
+38-> None
+39-> ('UB1435', '')

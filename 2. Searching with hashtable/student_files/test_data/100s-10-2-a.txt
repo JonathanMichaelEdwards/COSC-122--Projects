@@ -1,0 +1,118 @@
+database=100
+AD8188:
+AK9092:
+AM0637:
+AR3084:Horrible colour scheme
+AW9742:
+AX6384:Terrorist
+BE1383:Drunk driver
+BN8363:
+BS0793:
+BY1029:
+CF5784:WOF expired
+CM8862:Outstanding parking tickets
+CT5977:Giant insect
+DI3985:Allergic to hard work
+DP9928:Android fan
+EI9182:
+EN4827:
+EQ3721:Alternate universe licence
+EU2799:Elvis Impersonator
+EX3835:Drifter
+EY3249:
+FK6030:
+FL0206:Elvis Fan
+FM9190:Omnivore
+FR0813:
+FW2302:
+FZ0052:
+GC2293:
+GC8426:
+GO5027:
+HA6143:
+HU0963:
+IF5712:
+IF8161:Wanted by Interpol
+IQ6951:Bridges Supporter
+IS9775:
+IX6011:
+JC3360:
+JH4852:
+JI0201:Banana burglar
+JI1401:
+JN5813:
+KE6166:
+KI4054:
+KQ6515:Omnivore
+KY0640:
+LG8241:
+LI3988:Zombie
+LS5041:RDU supporter
+LX2736:
+MB6937:
+MQ9049:
+NL3917:
+NR8662:
+OC3677:
+OP7411:Windows phone fan
+OT3443:
+OV1419:
+OX0047:Illegally parker
+OZ4708:
+PQ9169:
+PW7188:
+PZ0472:
+QE2541:
+QF3230:
+RB4430:
+RF7758:
+RG1431:Smokey
+RN7212:Elvis Fan
+RR4389:
+RS8275:Remain supporter
+RZ5257:Strudle stealer
+SJ2428:
+TD5795:
+TI1343:Australia Supporter
+TN3442:
+UE5671:
+UH0895:Tomato thief
+UR9925:
+UX3815:
+VG5024:Jacinda supporter
+VN9161:Pescaterian
+VO5801:Blackberry fan
+VW6304:ZM supporter
+WD8168:
+WO9406:Allergic to hard work
+WQ5748:
+WQ9884:
+XB6370:Suspended driving licence
+XH6482:Learners licence
+XL4897:
+YB5404:
+YB8885:
+YP9235:
+YS3944:Giant insect
+YV9933:Axe murderer
+ZD6413:
+ZF2550:Pavlova poacher
+ZH9777:
+ZM8365:Vegetarian
+
+sightings=10
+JN5813;2018-01-20T00:21:51
+KI4054;2018-01-20T00:22:48
+AM0637;2018-01-20T00:23:46
+VO7543;2018-01-20T00:23:46
+VW6304;2018-01-20T00:23:47
+MB6937;2018-01-20T00:24:13
+EU2799;2018-01-20T00:24:36
+WQ9884;2018-01-20T00:24:58
+AM0637;2018-01-20T00:25:35
+HU0963;2018-01-20T00:25:35
+
+seen+flagged=2,2
+EU2799;2018-01-20T00:24:36
+VW6304;2018-01-20T00:23:47
+

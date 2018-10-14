@@ -1,0 +1,11 @@
+Linear Hash Table:
+0-> ('BB7077', '')
+1-> None
+2-> None
+3-> ('IY4088', '')
+4-> ('KQ8337', '')
+5-> ('SJ7429', 'Jail-breaker')
+6-> None
+7-> ('MK8501', '')
+8-> None
+9-> None

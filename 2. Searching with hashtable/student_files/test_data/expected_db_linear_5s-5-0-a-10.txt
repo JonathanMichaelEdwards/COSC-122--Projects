@@ -1,0 +1,11 @@
+Linear Hash Table:
+0-> None
+1-> None
+2-> None
+3-> None
+4-> ('IQ1998', 'Learners licence')
+5-> ('JI9400', '')
+6-> ('NN3705', '')
+7-> ('AS0734', 'Remain supporter')
+8-> None
+9-> ('FS1860', '')

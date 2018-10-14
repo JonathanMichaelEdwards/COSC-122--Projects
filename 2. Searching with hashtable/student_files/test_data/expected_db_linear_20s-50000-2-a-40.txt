@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('KN6263', 'Freegan')
+1-> ('LS2289', 'Crusaders supporter')
+2-> ('WC6121', '')
+3-> None
+4-> None
+5-> None
+6-> ('MT0859', '')
+7-> ('QL7788', '')
+8-> None
+9-> None
+10-> None
+11-> ('JP5458', '')
+12-> None
+13-> ('QJ5932', '')
+14-> ('WF9358', 'Goat')
+15-> None
+16-> None
+17-> ('JD5016', '')
+18-> None
+19-> None
+20-> None
+21-> None
+22-> ('LV6045', '')
+23-> None
+24-> ('DM7775', '')
+25-> None
+26-> ('IH6181', 'Horrible colour scheme')
+27-> ('ZH3675', 'Hip hop fan')
+28-> ('KP8969', '')
+29-> ('LE0016', 'Trip hop fan')
+30-> None
+31-> None
+32-> None
+33-> ('ZP6383', '')
+34-> ('XI3993', 'Extra Terrestrial')
+35-> None
+36-> None
+37-> ('VI1026', '')
+38-> ('ZD4059', 'Werewolf')
+39-> ('ER4199', 'Vampire')

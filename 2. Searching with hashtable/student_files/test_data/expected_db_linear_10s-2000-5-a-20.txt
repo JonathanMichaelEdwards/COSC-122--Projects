@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('SK0034', 'Crimes against fashion')
+1-> ('OG0734', '')
+2-> ('QB2797', '')
+3-> None
+4-> ('RW7119', 'Cheats at monopoly')
+5-> None
+6-> None
+7-> None
+8-> ('XX4982', '')
+9-> None
+10-> ('ZX1088', '')
+11-> None
+12-> ('XV3765', 'Apple fan')
+13-> None
+14-> ('GG8744', 'Intergalactic licence')
+15-> ('HP0855', '')
+16-> None
+17-> ('VQ3895', '')
+18-> None
+19-> None

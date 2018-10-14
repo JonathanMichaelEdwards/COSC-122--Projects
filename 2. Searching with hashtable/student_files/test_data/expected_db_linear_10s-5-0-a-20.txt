@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('ON0776', '')
+1-> ('VM7161', '')
+2-> None
+3-> None
+4-> ('BK9870', 'Remain supporter')
+5-> ('LY1342', '')
+6-> ('SD6358', 'Muppet')
+7-> None
+8-> None
+9-> ('ZS5486', '')
+10-> None
+11-> ('ME9384', '')
+12-> ('MJ3928', 'Trip hop fan')
+13-> None
+14-> None
+15-> ('FX9762', 'Used car sales person')
+16-> None
+17-> ('UY1993', '')
+18-> None
+19-> None

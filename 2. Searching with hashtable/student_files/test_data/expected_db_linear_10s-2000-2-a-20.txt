@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> ('GY1889', 'National radio supporter')
+1-> ('YM2345', '')
+2-> None
+3-> None
+4-> None
+5-> None
+6-> None
+7-> ('UQ8251', '')
+8-> None
+9-> ('GY4192', '')
+10-> ('UW3269', 'Body snatcher')
+11-> None
+12-> None
+13-> ('LB8424', '')
+14-> None
+15-> ('KW1142', '')
+16-> None
+17-> ('EQ1900', '')
+18-> ('UI1839', 'Snail speed')
+19-> ('BN5809', '')

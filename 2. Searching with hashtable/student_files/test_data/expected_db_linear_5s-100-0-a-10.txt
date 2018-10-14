@@ -1,0 +1,11 @@
+Linear Hash Table:
+0-> ('RN3518', 'Trump supporter')
+1-> None
+2-> None
+3-> ('MF1378', '')
+4-> ('QJ0298', 'Freegan')
+5-> ('SI7964', '')
+6-> ('JN8584', '')
+7-> None
+8-> None
+9-> None

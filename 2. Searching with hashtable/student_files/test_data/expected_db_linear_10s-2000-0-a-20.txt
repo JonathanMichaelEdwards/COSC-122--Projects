@@ -1,0 +1,21 @@
+Linear Hash Table:
+0-> None
+1-> ('CG9078', 'RDU supporter')
+2-> ('AA6438', '')
+3-> None
+4-> ('XI8183', '')
+5-> ('HX2068', 'Zombie')
+6-> ('OV5956', '')
+7-> None
+8-> None
+9-> None
+10-> None
+11-> ('CB8391', '')
+12-> ('WW9564', 'Elvis Fan')
+13-> None
+14-> None
+15-> ('BS6975', 'Hip hop fan')
+16-> ('IL6176', '')
+17-> None
+18-> None
+19-> ('FR9935', '')

@@ -1,0 +1,41 @@
+Linear Hash Table:
+0-> ('HL7947', '')
+1-> ('CP2205', 'Chews with mouth open')
+2-> ('OX0415', 'International licence')
+3-> None
+4-> None
+5-> None
+6-> ('QN3975', '')
+7-> ('UT2739', '')
+8-> ('MJ4099', '')
+9-> ('FX0406', '')
+10-> None
+11-> None
+12-> None
+13-> None
+14-> ('KE7714', '')
+15-> None
+16-> ('LK9865', 'Drifter')
+17-> ('TK8181', 'Apple fan')
+18-> ('UV6675', '')
+19-> None
+20-> ('ZY5304', 'Suspended driving licence')
+21-> None
+22-> None
+23-> None
+24-> None
+25-> ('EP0450', '')
+26-> ('MJ3123', '')
+27-> ('VE0463', '')
+28-> None
+29-> None
+30-> None
+31-> ('WO2824', '')
+32-> ('DY5395', '')
+33-> None
+34-> ('PN1585', '')
+35-> None
+36-> None
+37-> None
+38-> ('ND8582', 'Android fan')
+39-> ('NY0034', '')
