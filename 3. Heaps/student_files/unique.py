@@ -24,9 +24,21 @@ def unique_plates(plate_list1, plate_list2):
     """
     result_list = []
     comparisons = 0
-    # ---start student section---
-    pass
-    # ===end student section===
+    plate1 = 0
+    plate2 = 0
+
+    while plate1 < len(plate_list1) and plate2 < len(plate_list2):
+        comparisons += 1
+        # if plate_list1[plate1] < plate_list2[plate2]:
+        #     if plate_list2[plate2] not in plate_list1:
+        #         pass
+        #     plate1 += 1
+        # else:
+        if plate_list2[plate2] not in plate_list1:
+            result_list.append(plate_list2[plate2])
+        # plate1 += 1
+        plate2 += 1
+    
     return result_list, comparisons
 
 
@@ -36,6 +48,7 @@ def unique_plates(plate_list1, plate_list2):
 # The area below is for your own testing
 # Don't submit code below here to the quiz server
 # -------------------------------------------------------------------------
+
 def run_file_example():
     """ An example using files """
     print('File example:')
@@ -77,7 +90,7 @@ def run_my_tests():
     # Put your testing code here so that we don't run it when marking:)
 
     # example usage plates_from_string function
-    run_from_strings_example()
+    # run_from_strings_example()
 
     # a simple file example
     run_file_example()
